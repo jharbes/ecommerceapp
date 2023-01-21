@@ -1,9 +1,10 @@
 # ecommerceapp-spring-boot
 
-<h3>Aplicativo web de Ecommerce feito com Spring Boot, JPA e Hibernate</h3>
-
+<h2>Aplicativo web de Ecommerce feito com Spring Boot, JPA e Hibernate</h2>
+<br>
 
 <h3>Objetivos:</h3>
+<br>
 
 <ul>
 <li> Criar projeto Spring Boot Java</li>
@@ -14,6 +15,7 @@
 <li> CRUD - Create, Retrieve, Update, Delete</li>
 <li> Tratamento de exceções</li>
 </ul>
+<br>
 
 <h3 align="justify">Será utilizado a seguinte implementação de modelo conceitual para atingirmos o nosso objetivo:</h3>
 <br>
