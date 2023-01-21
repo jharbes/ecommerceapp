@@ -1,10 +1,9 @@
 # ecommerceapp-spring-boot
 
 <h3>Aplicativo web de Ecommerce feito com Spring Boot, JPA e Hibernate</h3>
-<br>
+
 
 <h3>Objetivos:</h3>
-<br>
 
 <ul>
 <li> Criar projeto Spring Boot Java</li>
@@ -17,7 +16,7 @@
 </ul>
 
 <h3 align="justify">Será utilizado a seguinte implementação de modelo conceitual para atingirmos o nosso objetivo:</h3>
-<br><br>
+<br>
 
 <img src="domainModel.JPG" align="center" width="900"><br><br>
 
