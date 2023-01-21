@@ -6,15 +6,17 @@
 <h3>Objetivos:</h3>
 <br>
 
- Criar projeto Spring Boot Java
- Implementar modelo de domínio
- Estruturar camadas lógicas: resource, service, repository
- Configurar banco de dados de teste (H2)
- Povoar o banco de dados
- CRUD - Create, Retrieve, Update, Delete
- Tratamento de exceções
+<ul>
+<li> Criar projeto Spring Boot Java</li>
+<li> Implementar modelo de domínio</li>
+<li> Estruturar camadas lógicas: resource, service, repository</li>
+<li> Configurar banco de dados de teste (H2)</li>
+<li> Povoar o banco de dados</li>
+<li> CRUD - Create, Retrieve, Update, Delete</li>
+<li> Tratamento de exceções</li>
+</ul>
 
-<p align="justify">Será utilizado a seguinte implementação de modelo conceitual para atingirmos o nosso objetivo:</p>
+<h3 align="justify">Será utilizado a seguinte implementação de modelo conceitual para atingirmos o nosso objetivo:</h3>
 
 <img src="domainModel.JPG" align="center" width="900"><br>
 
